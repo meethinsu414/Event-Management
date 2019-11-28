@@ -1,0 +1,10 @@
+section{
+	padding: 50px 0 25px;
+	position: relative;
+}
+label{
+	margin: 0 0 4px;
+	font-weight: bolder;
+	display: block;
+}
+/*.toast{opacity: 1;}*/
